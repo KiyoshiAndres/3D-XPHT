@@ -1,6 +1,6 @@
 # 3D-XPHT
 
-Welcome to the 3D-XPHT project! This repository contains code and resources for 3D visualization and processing using XPHT (Extended Performance Handling Techniques).
+Welcome to the 3D-XPHT project! This repository contains code and resources for 3D visualization and processing using XPHT (Extended Persistent Homology Transform).
 
 ## Overview
 
@@ -17,7 +17,7 @@ cd 3D-XPHT
 
 ## Project Structure
 
-- Source code and utilities for 3D processing
+- Source code and utilities for 3D XPHT
 - Documentation and examples
 - Configuration files
 

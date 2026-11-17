@@ -4,6 +4,7 @@ Welcome to the 3D-XPHT project! This repository contains code and resources for 
 
 ## Overview
 
+Link to ArXiv: https://arxiv.org/abs/2611.20413
 This project provides tools and utilities for working with 3D graphics and data processing with optimized performance handling.
 
 ## Getting Started
